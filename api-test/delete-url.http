@@ -1,0 +1,2 @@
+DELETE http://localhost:8082/url/amazon
+Authorization: Basic bXl1c2VyOm15cGFzcw==

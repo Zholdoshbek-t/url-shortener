@@ -1,0 +1,8 @@
+POST http://localhost:8082/url
+Content-Type: application/json
+Authorization: Basic bXl1c2VyOm15cGFzcw==
+
+{
+    "url" : "https://www.rezka.ag",
+    "alias" : "rezka"
+}

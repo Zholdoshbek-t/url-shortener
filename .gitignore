@@ -1,0 +1,32 @@
+# Секреты и конфиги
+.env
+
+# Логи
+*.log
+
+# Сборка Go
+/bin/
+/build/
+/dist/
+/out/
+/tmp/
+/*.exe
+/*.exe~
+/*.dll
+/*.so
+/*.dylib
+/*.test
+
+# Кэш и временные файлы
+*.tmp
+*.temp
+
+# IDE
+.idea/
+.vscode/
+
+# ОС
+.DS_Store
+Thumbs.db
+
+/storage/storage.db
